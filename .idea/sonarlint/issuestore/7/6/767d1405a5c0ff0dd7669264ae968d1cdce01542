@@ -1,0 +1,13 @@
+
+Zsquid:UnusedPrivateMethod"+Remove this unused private "getInt" method.(À°÷äþÿÿÿÿ8òÌ—×±,
+Ysquid:UnusedPrivateMethod"/Remove this unused private "getIntLBYL" method.(‰­­Ú8òÌ—×±,
+Ysquid:UnusedPrivateMethod"/Remove this unused private "divideLBYL" method.(·¨ˆï8òÌ—×±,
+^squid:UnusedPrivateMethod"/Remove this unused private "divideEAFP" method.(çç´ßúÿÿÿÿ8òÌ—×±,
+Zsquid:UnusedPrivateMethod"+Remove this unused private "divide" method.(©•ù²ýÿÿÿÿ8òÌ—×±,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(””ÀŠÿÿÿÿÿ8òÌ—×±,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÂºÉò8òÌ—×±,
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‚´›øÿÿÿÿ8òÌ—×±,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(§ÿêŒ8òÌ—×±,
